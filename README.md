@@ -1,4 +1,4 @@
-### Hi!
-- 🌻 Digital Humanities student 
-- 🌱 Into machine learning and data science 
-- 👯 I’m looking to collaborate with anyone interested in data manipulation!
+### Hi (:
+- Digital Humanities student
+- Currently into **machine learning** and **data analysis**
+
