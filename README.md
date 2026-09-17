@@ -1,7 +1,4 @@
 ## Hi, I'm Ludovica (:
-> Digital Humanities student
-
-Currently into **machine learning** and **data analysis**.
 
 Mainly working with Python 🐍, with a dash of web technologies.
 
